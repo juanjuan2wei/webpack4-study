@@ -1,6 +1,6 @@
 #  webpack4-taste
 ## 导读系列
-> 过了一遍官网webpack4所有guide,将一些常用的板块摘录翻译了一下，作为一个记录，服务于我的前端女友。
+> 过了一遍官网webpack4所有guide,将一些常用的板块摘录翻译了一下，一方面提高英语阅读能力，另一方面服务同样也是前端的女朋友。
 
 1.[Webpack入门](https://github.com/jiaweiCao/webpack4-study/issues/1)
 
